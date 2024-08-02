@@ -1,4 +1,4 @@
-TubeDIGEST
+**TubeDIGEST**
 
 YouTube Video Summary Web App
 
@@ -26,12 +26,12 @@ Features:-
 - Fast and efficient summarization algorithm
 
 Installation:
-1. Clone the repository: git clone https://github.com/your-username/TubeDigest.git
+1. Clone the repository: git clone https://github.com/Gxuravkumar911/TubeDigest.git
 2. Install dependencies: pip install -r requirements.txt
 3. Run the app: python manage.py runserver
+4. Launch: Open the given URL it should look like http://127.0.0.1:8000
 
 Contributing
-
 Contributions are welcome! Please submit a pull request with your changes.
 
 License
