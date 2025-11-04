@@ -2,7 +2,7 @@
 
 YouTube Video Summary Web App
 
-TubeDigest is a web application that provides concise summaries of YouTube videos using AI-powered natural language processing techniques.
+TubeDigest - A web application completley built on python that provides concise summaries of YouTube videos using AI-powered natural language processing techniques.
 
 Technologies Used:-
 - Python: Backend programming language
@@ -31,6 +31,7 @@ Installation:
 3. Run the app: python manage.py runserver
 4. Launch: Open the given URL it should look like http://127.0.0.1:8000
 
+Currently it doesnt have a full fledge frontend as the only motive from this project was to show how you can built a whole web-application using only python.
 Contributing
 Contributions are welcome! Please submit a pull request with your changes.
 
